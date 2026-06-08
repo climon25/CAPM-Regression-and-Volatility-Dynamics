@@ -122,7 +122,7 @@ Portfolio sorting results provided insight into how beta and idiosyncratic volat
 
 ---
 
-## Technologies Used
+## Python Packages Used
 
 * Python
 * Pandas
@@ -130,20 +130,6 @@ Portfolio sorting results provided insight into how beta and idiosyncratic volat
 * Statsmodels
 * SciPy
 * Matplotlib
-
----
-
-## Skills Demonstrated
-
-* Financial econometrics
-* Asset pricing theory
-* CAPM implementation
-* Rolling-window regression analysis
-* Volatility modeling
-* Statistical analysis
-* Portfolio construction
-* Data visualization
-* Python-based quantitative research
 
 ---
 
@@ -156,12 +142,3 @@ Potential extensions include:
 * Industry-specific factor analysis
 * Out-of-sample forecasting of volatility
 * Machine learning approaches to beta prediction
-
----
-
-## Author
-
-Christian Limon
-
-M.S. Financial Engineering Candidate, Georgia Tech
-B.A. Mathematics, Amherst College
