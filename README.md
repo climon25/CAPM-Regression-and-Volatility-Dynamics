@@ -1,7 +1,5 @@
 # CAPM-Regression-and-Volatility-Dynamics
 
-## Overview
-
 This project examines how firm-level market betas and volatility components vary across industries and over time using historical U.S. equity return data. Using the Capital Asset Pricing Model (CAPM), I estimate rolling market betas for individual firms and decompose total stock volatility into systematic and idiosyncratic components. The analysis also investigates how beta and idiosyncratic volatility relate to future stock returns through portfolio sorting techniques.
 
 This project was completed using Python and CRSP monthly stock return data spanning 1996–2023.
