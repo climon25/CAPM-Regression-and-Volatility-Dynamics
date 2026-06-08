@@ -1,4 +1,4 @@
-# CAPM-Regression-and-Volatility-Dynamics
+# CAPM Regression and Volatility Dynamics
 
 ## Overview
 
